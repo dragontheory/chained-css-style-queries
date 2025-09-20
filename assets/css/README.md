@@ -240,7 +240,7 @@ responsive scroll performance.
 
 ```
 
-> Order of appearance
+## Semantic elements in order of appearance
 
 | HTMLElement            | Description                                                                      |
 | ---------------------- | -------------------------------------------------------------------------------- |
@@ -270,7 +270,7 @@ responsive scroll performance.
 
 ---
 
-### HTML TEMPLATE
+### HTML BASE TEMPLATE
 
 ```html
 <html lang="en-us">
