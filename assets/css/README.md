@@ -224,12 +224,12 @@ responsive scroll performance.
 |                                                  |
 |                                                  |
 |                                                  |
-|                                                  |
-|                                                  |
-|                                                  |
-|                                                  |
-|                                                  |
-|                                                  |
+|                                                  |      : Scroll status
+|                                                __|______: Return to top button 
+|                                              /   |      : Appears after scrolling 
+|                                             /    |
+|                                            /     |
+|                                        ( ^ )     |
 |                                                  |
 |__________________________________________________|
 |                    <footer>                      |
