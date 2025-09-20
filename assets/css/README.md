@@ -141,7 +141,7 @@ responsive scroll performance.
 
 <br>
 
-## Minimally nested layout
+## Minimally nested anchor elements
 
 ```txt
 
